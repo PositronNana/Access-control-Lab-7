@@ -1,0 +1,11 @@
+User ID controlled by request parameter 
+
+Goal 
+1. To access carlos user account and get the API key 
+
+Analysis
+1. Login to your account (wiener:peter).
+2. Get to know your User ID.
+3. Switch your user ID to Carlos User ID.
+4. Get Carlos User ID.
+
